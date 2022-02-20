@@ -14,13 +14,13 @@ Po stažení a instalaci programu si vytvoříme složku kterou pak následně b
 )
 
 # Klávesové zkratky:
-CTRL + A - Označí vše.
-CTRL + SHIFT + S - Výber a následné uložení. 
-CTRL + Z - Vráti poslední změny o jeden krok.
-CTRL + ALT + F - Formátuje kód.
-CTRL + F - Vyhhledáváni v textu.
-CTRL + SPACE - Otevře nabídku možností.
-CTRL + SHIFT + P - Nabídka příkazů.
+CTRL + A - Označí vše.  
+CTRL + SHIFT + S - Výber a následné uložení.  
+CTRL + Z - Vráti poslední změny o jeden krok.  
+CTRL + ALT + F - Formátuje kód.  
+CTRL + F - Vyhhledáváni v textu.  
+CTRL + SPACE - Otevře nabídku možností.  
+CTRL + SHIFT + P - Nabídka příkazů.  
 
 # Rozšíření:
 - GitLens
